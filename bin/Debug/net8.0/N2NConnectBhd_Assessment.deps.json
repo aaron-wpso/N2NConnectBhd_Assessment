@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "N2NConnectBhd_Assessment/1.0.0": {
+        "runtime": {
+          "N2NConnectBhd_Assessment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "N2NConnectBhd_Assessment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
